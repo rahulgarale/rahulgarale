@@ -39,20 +39,6 @@ Senior Software Engineer with 6.7+ years of experience building scalable backend
 
 ---
 
-## 📈 Featured Projects (Add your projects here)
-
-### 🔹 Event-Driven Order Processing System *(Recommended Project to Add)*
-- Built a simulated order processing system using **Python + AWS concepts**
-- Implemented **idempotent workflows and retry mechanisms**
-- Designed for **high-throughput event handling**
-
-### 🔹 REST API Service (FastAPI)
-- Developed scalable backend APIs using **FastAPI**
-- Implemented authentication, validation, and error handling
-- Focused on performance and clean architecture
-
----
-
 ## 🏆 Achievements
 - 🥇 Awarded **“Super Squad”** for two consecutive years
 - ⭐ Multiple spot awards for technical excellence and production impact
@@ -62,6 +48,7 @@ Senior Software Engineer with 6.7+ years of experience building scalable backend
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/rahulgarale/
 - Email: garalerahul6@gmail.com
+- Phone: +91 8286358847
 
 ---
 
